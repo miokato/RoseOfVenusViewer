@@ -1,0 +1,21 @@
+PODS:
+  - F53OSC (1.2.0)
+
+DEPENDENCIES:
+  - F53OSC (from `https://github.com/Figure53/F53OSC.git`)
+
+EXTERNAL SOURCES:
+  F53OSC:
+    :git: https://github.com/Figure53/F53OSC.git
+
+CHECKOUT OPTIONS:
+  F53OSC:
+    :commit: 551aa3621182b561e20e9d42a0729ae9acc1b7d3
+    :git: https://github.com/Figure53/F53OSC.git
+
+SPEC CHECKSUMS:
+  F53OSC: 37c4565d7a7ddbf2b7196038d9c1de65854d9fe5
+
+PODFILE CHECKSUM: acf7ed5aa40f6ade701cc584b1bb5056cfb7a7e0
+
+COCOAPODS: 1.11.2
